@@ -21,7 +21,7 @@ To use this plugin, simply insert the shortcode `[crypteye]` in the content area
 
 ## Customization
 
-You can customize the look of the table by modifying the CSS styles in the plugin's `styles.css` file.
+You can customize the look of the table by modifying the CSS styles in the plugin's `crypteye.php` file.
 
 ## Requirements
 
