@@ -1,5 +1,4 @@
 # CryptEye
-# Crypto Live Rates WordPress Plugin
 
 Display live rates of all the major cryptocurrencies in a table format on your WordPress website with the Crypto Live Rates plugin. The plugin fetches the latest rates from a third-party API and displays them in real-time.
 
